@@ -7211,6 +7211,8 @@ button.bg-dark:focus {
   display: -webkit-box !important;
   display: -ms-flexbox !important;
   display: flex !important;
+  justify-content: center;
+  text-align: center;
 }
 
 .d-inline-flex {
